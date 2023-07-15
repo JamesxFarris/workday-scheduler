@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Workday Planner </h1>
 
-⏳💻⏳💻⏳ <br>
+📅📅📅📅📅 <br>
 <strong>A JQuery and DayJS powered application to keep track of your daily activies</strong>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +9,7 @@
 </div>
 <hr>
 
-![screencapture-127-0-0-1-5500-index-html-2023-07-12-03_26_14](https://github.com/JamesxFarris/code-quiz/assets/51385562/d33bd857-5e25-405c-b122-cfa239529ee6)
+![screencapture-127-0-0-1-5500-index-html-2023-07-15-03_52_06](https://github.com/JamesxFarris/workday-scheduler/assets/51385562/8a74d941-62c6-4f13-8757-92ed98c6ae3e)
 
 <a href="https://jamesxfarris.github.io/workday-scheduler/" >Link to live page<a>
 
